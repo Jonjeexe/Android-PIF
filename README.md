@@ -5,3 +5,4 @@
 ---
 
 `Bypass Play Integrity` and `CTS certificate ` 
+<p>This Module will fix your safety net failed issues and make sure you using latest version.</p>
