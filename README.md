@@ -4,5 +4,4 @@
 
 ---
 
-This Module will !!
 `Bypass Play Integrity` and `CTS certificate ` 
