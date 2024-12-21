@@ -6,12 +6,18 @@
 
 
 ---
-### Introduction
+## Introduction
 `Bypass Play Integrity` and `CTS certificate ` 
 <p>This Module will fix your safety net failed issues and make sure you using latest version.</p>
 
 ## Downloads
 
-The official `IO --SPEED` files can only be obtained from [Github release](https://github.com/Jonjeexe/Android-PIF/releases) 
+The official `Android-PIF` files can only be obtained from [Github release](https://github.com/Jonjeexe/Android-PIF/releases) 
 
 [![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/Kyliekyler/MAGNETAR/releases)
+
+## Installation 
+
+> Enable Zygisk in Magisk
+> Flash `Android-PIF`
+> reboot
