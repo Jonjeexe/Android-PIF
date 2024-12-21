@@ -18,6 +18,6 @@ The official `Android-PIF` files can only be obtained from [Github release](http
 
 ## Installation 
 
-> Enable Zygisk in Magisk
-> Flash `Android-PIF`
-> reboot
+> - Enable Zygisk in Magisk
+> - Flash `Android-PIF`
+> - reboot
