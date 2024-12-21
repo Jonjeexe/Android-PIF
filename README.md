@@ -10,11 +10,15 @@
 `Bypass Play Integrity` and `CTS certificate ` 
 <p>This Module will fix your safety net failed issues and make sure you using latest version.</p>
 
+
+
 ## Downloads
 
 The official `Android-PIF` files can only be obtained from [Github release](https://github.com/Jonjeexe/Android-PIF/releases) 
 
 [![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/Kyliekyler/MAGNETAR/releases)
+
+
 
 ## Installation 
 
@@ -22,9 +26,12 @@ The official `Android-PIF` files can only be obtained from [Github release](http
 > - Flash `Android-PIF` Module
 > - reboot.
 
+
+
+
 ## License
 
-> Android-PIF is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+> `Android-PIF` is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg?style=flat&logo=creativecommons"/></a>
 
